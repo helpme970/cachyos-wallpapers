@@ -3,7 +3,7 @@
 Wallpapers for CachyOS
 
 #### North
-![north](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/north.png)
+![north](./usr/share/wallpapers/cachyos-wallpapers/north.png)
 
 #### Wave
 ![abstractwave](https://github.com/CachyOS/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/wave.png)
