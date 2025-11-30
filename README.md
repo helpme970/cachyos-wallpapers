@@ -32,6 +32,9 @@ Wallpapers for CachyOS
 #### Cachyadventure219
 ![cachyadventure219](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Cachyadventure219.png)
 
+#### Cachy Galaxy 99
+![cachygalaxy99](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/cachygalaxy99.jpg)
+
 #### DarkStreaks
 ![darkstreaks](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/DarkStreaks.png)
 
@@ -49,6 +52,9 @@ Wallpapers for CachyOS
 
 #### GreenNekoLady
 ![greennekolady](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/GreenNekoLady.png)
+
+### Limine
+![limine](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/limine-splash.png)
 
 #### Lines
 ![lines](https://github.com/birbkeks/cachyos-wallpapers/blob/develop/usr/share/wallpapers/cachyos-wallpapers/Lines.png)
